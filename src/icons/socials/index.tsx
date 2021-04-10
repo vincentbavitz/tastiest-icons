@@ -1,4 +1,4 @@
-export { default as Facebook } from './Facebook';
-export { default as Instagram } from './Instagram';
-export { default as Twitter } from './Twitter';
-export { default as Youtube } from './Youtube';
+export { default as FacebookIcon } from './FacebookIcon';
+export { default as InstagramIcon } from './InstagramIcon';
+export { default as TwitterIcon } from './TwitterIcon';
+export { default as YoutubeIcon } from './YoutubeIcon';
