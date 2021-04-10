@@ -10,12 +10,12 @@ function SvgChevronRightSecondaryIcon(props: React.SVGProps<SVGSVGElement>) {
     >
       <circle cx={92.07} cy={92.07} r={92.07} fill="#ffd617" />
       <path
-        d="M75.09 39.94l52.14 52.13-52.14 52.13"
         fill="none"
         stroke="#fff"
         strokeLinecap="round"
         strokeLinejoin="round"
         strokeWidth={19}
+        d="M75.09 39.94l52.14 52.13-52.14 52.13"
       />
     </svg>
   );

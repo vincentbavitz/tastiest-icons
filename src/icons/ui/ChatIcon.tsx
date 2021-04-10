@@ -5,7 +5,8 @@ function SvgChatIcon(props: React.SVGProps<SVGSVGElement>) {
     <svg
       xmlns="http://www.w3.org/2000/svg"
       data-name="Layer 1"
-      viewBox="0 0 81.18 68.39"
+      width={81.18}
+      height={68.39}
       {...props}
     >
       <path

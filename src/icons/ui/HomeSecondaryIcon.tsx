@@ -3,18 +3,22 @@ import * as React from 'react';
 function SvgHomeSecondaryIcon(props: React.SVGProps<SVGSVGElement>) {
   return (
     <svg
+      id="home-secondary-icon_svg__Layer_1"
       data-name="Layer 1"
       xmlns="http://www.w3.org/2000/svg"
       viewBox="0 0 300 300"
       {...props}
     >
+      <defs>
+        <style>
+          {
+            '.home-secondary-icon_svg__cls-1{fill:none;stroke:#ffd617;stroke-linecap:round;stroke-linejoin:round;stroke-width:19px}'
+          }
+        </style>
+      </defs>
       <path
-        d="M74.15 154.73v86.46m151.36-86.46v86.46M35.44 155.45L149.1 51.58l113.66 103.87m-137.65 85.07v-68.5h47.91v68.5m-124.3 6.99h201.49M189.49 85.45V62.84h38.57v56.53"
-        fill="none"
-        stroke="#ffd617"
-        strokeLinecap="round"
-        strokeLinejoin="round"
-        strokeWidth={19}
+        className="home-secondary-icon_svg__cls-1"
+        d="M74.15 154.73v86.46M225.51 154.73v86.46M35.44 155.45L149.1 51.58l113.66 103.87M125.11 240.52v-68.5h47.91v68.5M48.72 247.51h201.49M189.49 85.45V62.84h38.57v56.53"
       />
     </svg>
   );

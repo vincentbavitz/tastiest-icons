@@ -5,7 +5,8 @@ function SvgChevronLeftSecondaryIcon(props: React.SVGProps<SVGSVGElement>) {
     <svg
       xmlns="http://www.w3.org/2000/svg"
       data-name="Layer 1"
-      viewBox="0 0 184.14 184.14"
+      width={184.14}
+      height={184.14}
       {...props}
     >
       <circle cx={92.07} cy={92.07} r={92.07} fill="#ffd617" />
