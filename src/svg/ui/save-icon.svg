@@ -9,9 +9,9 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="Layer_1"
    data-name="Layer 1"
-   viewBox="0 0 166.39999 201.03"
+   viewBox="0 0 114.26001 112.93001"
    version="1.1"
-   sodipodi:docname="location-icon.svg"
+   sodipodi:docname="save-icon.svg"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
   <metadata
      id="metadata15">
@@ -38,8 +38,8 @@
      id="namedview13"
      showgrid="false"
      inkscape:zoom="2.8533333"
-     inkscape:cx="66.69"
-     inkscape:cy="91"
+     inkscape:cx="65.9"
+     inkscape:cy="61.190009"
      inkscape:window-x="0"
      inkscape:window-y="33"
      inkscape:window-maximized="1"
@@ -47,16 +47,19 @@
   <defs
      id="defs4">
     <style
-       id="style2">.cls-1{fill:#fe4c00;}</style>
+       id="style2">.cls-1{fill:gray;}</style>
   </defs>
   <title
-     id="title6">WebIcons</title>
+     id="title6">Admin_Icons</title>
   <path
      class="cls-1"
-     d="m 83.2,19 a 64.27,64.27 0 0 1 64.2,64.2 c 0,18.79 -10,41.64 -28.21,64.33 -14.72,18.37 -29.46,29.82 -36,33.58 -6.59,-3.7 -21.31,-15 -35.94,-33.13 C 29.06,125.42 19.04,102.41 19.04,83.2 A 64.27,64.27 0 0 1 83.2,19 m 0,-19 A 83.2,83.2 0 0 0 0,83.2 c 0,58.14 67.58,117.83 83.2,117.83 15.62,0 83.2,-60.82 83.2,-117.83 A 83.2,83.2 0 0 0 83.2,0 Z"
+     d="M 94.68,0.88000901 A 3,3 0 0 0 92.55,9.0065539e-6 H 3 A 3,3 0 0 0 0,3.000009 V 109.93001 a 3,3 0 0 0 3,3 h 108.26 a 3,3 0 0 0 3,-3 V 21.720009 a 3,3 0 0 0 -0.88,-2.13 z M 80.51,6.020009 v 32.4 H 26.73 v -32.4 z M 19.38,110.27001 Z m 0,-3.35 V 65.500009 h 71.83 v 41.420001 z m 77.85,0 V 62.490009 a 3,3 0 0 0 -3,-3 H 16.36 a 3,3 0 0 0 -3,3 V 106.92001 H 6.01 V 6.020009 H 20.7 v 35.42 a 3,3 0 0 0 3,3 h 59.81 a 3,3 0 0 0 3,-3 v -35.42 h 4.76 l 16.94,17 v 83.950001 z"
      id="path8" />
-  <path
+  <rect
      class="cls-1"
-     d="M 82.69,42.74 A 18.73,18.73 0 1 0 101.41,61.47 18.73,18.73 0 0 0 82.69,42.74 Z"
-     id="path10" />
+     x="57.459999"
+     y="10.700011"
+     width="12.69"
+     height="24.719999"
+     id="rect10" />
 </svg>

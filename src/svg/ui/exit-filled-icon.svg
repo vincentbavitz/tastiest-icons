@@ -9,9 +9,9 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="Layer_1"
    data-name="Layer 1"
-   viewBox="0 0 166.39999 201.03"
+   viewBox="0 0 236.71001 164.98"
    version="1.1"
-   sodipodi:docname="location-icon.svg"
+   sodipodi:docname="exit-filled-icon.svg"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
   <metadata
      id="metadata15">
@@ -38,25 +38,23 @@
      id="namedview13"
      showgrid="false"
      inkscape:zoom="2.8533333"
-     inkscape:cx="66.69"
-     inkscape:cy="91"
+     inkscape:cx="120.5"
+     inkscape:cy="77.48"
      inkscape:window-x="0"
      inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:current-layer="Layer_1" />
   <defs
      id="defs4">
-    <style
-       id="style2">.cls-1{fill:#fe4c00;}</style>
   </defs>
   <title
-     id="title6">WebIcons</title>
+     id="title6">Admin_Icons</title>
   <path
      class="cls-1"
-     d="m 83.2,19 a 64.27,64.27 0 0 1 64.2,64.2 c 0,18.79 -10,41.64 -28.21,64.33 -14.72,18.37 -29.46,29.82 -36,33.58 -6.59,-3.7 -21.31,-15 -35.94,-33.13 C 29.06,125.42 19.04,102.41 19.04,83.2 A 64.27,64.27 0 0 1 83.2,19 m 0,-19 A 83.2,83.2 0 0 0 0,83.2 c 0,58.14 67.58,117.83 83.2,117.83 15.62,0 83.2,-60.82 83.2,-117.83 A 83.2,83.2 0 0 0 83.2,0 Z"
+     d="M 210.12,164.98 H 26.59 A 26.6,26.6 0 0 1 0,138.39 V 26.6 A 26.6,26.6 0 0 1 26.59,0 h 183.53 a 26.6,26.6 0 0 1 26.59,26.6 v 111.79 a 26.6,26.6 0 0 1 -26.59,26.59 z"
      id="path8" />
   <path
-     class="cls-1"
-     d="M 82.69,42.74 A 18.73,18.73 0 1 0 101.41,61.47 18.73,18.73 0 0 0 82.69,42.74 Z"
+     class="cls-2"
+     d="m 133.87,83.06 29,-31.24 A 11.49,11.49 0 0 0 146.03,36.19 l -27.83,30 -27.83,-30 A 11.498846,11.498846 0 0 0 73.5,51.82 l 29,31.24 -29,31.25 a 11.49,11.49 0 0 0 16.84,15.63 l 27.83,-30 27.83,30 a 11.49,11.49 0 0 0 16.84,-15.63 z"
      id="path10" />
 </svg>

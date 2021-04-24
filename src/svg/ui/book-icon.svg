@@ -9,12 +9,12 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="Layer_1"
    data-name="Layer 1"
-   viewBox="0 0 166.39999 201.03"
+   viewBox="0 0 111.95009 99.626625"
    version="1.1"
-   sodipodi:docname="location-icon.svg"
+   sodipodi:docname="book-icon.svg"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
   <metadata
-     id="metadata15">
+     id="metadata13">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -35,11 +35,11 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
      inkscape:window-height="1013"
-     id="namedview13"
+     id="namedview11"
      showgrid="false"
      inkscape:zoom="2.8533333"
-     inkscape:cx="66.69"
-     inkscape:cy="91"
+     inkscape:cx="65.880044"
+     inkscape:cy="46.820302"
      inkscape:window-x="0"
      inkscape:window-y="33"
      inkscape:window-maximized="1"
@@ -47,16 +47,12 @@
   <defs
      id="defs4">
     <style
-       id="style2">.cls-1{fill:#fe4c00;}</style>
+       id="style2">.cls-1{fill:gray;}</style>
   </defs>
   <title
-     id="title6">WebIcons</title>
+     id="title6">Admin_Icons</title>
   <path
      class="cls-1"
-     d="m 83.2,19 a 64.27,64.27 0 0 1 64.2,64.2 c 0,18.79 -10,41.64 -28.21,64.33 -14.72,18.37 -29.46,29.82 -36,33.58 -6.59,-3.7 -21.31,-15 -35.94,-33.13 C 29.06,125.42 19.04,102.41 19.04,83.2 A 64.27,64.27 0 0 1 83.2,19 m 0,-19 A 83.2,83.2 0 0 0 0,83.2 c 0,58.14 67.58,117.83 83.2,117.83 15.62,0 83.2,-60.82 83.2,-117.83 A 83.2,83.2 0 0 0 83.2,0 Z"
+     d="m 110.22004,6.2103024 a 64.79,64.79 0 0 0 -54.249996,-0.51 64.76,64.76 0 0 0 -54.2399996,0.51 3,3 0 0 0 -1.730000008303,2.73 V 96.610302 a 3,3 0 0 0 4.300000008303,2.72 59.19,59.19 0 0 1 50.3899996,0 l 0.55,0.11 0.73,0.14 0.72,-0.13 0.56,-0.12 a 59.21,59.21 0 0 1 50.399996,0 3,3 0 0 0 4.3,-2.72 V 8.9403024 a 3,3 0 0 0 -1.73,-2.73 z M 6.0300444,92.150302 v -81.18 a 58.18,58.18 0 0 1 46.9199996,0 v 81.17 a 63.73,63.73 0 0 0 -46.9199996,0 z m 52.9499996,0 v -81.18 a 58.22,58.22 0 0 1 46.939996,0 v 81.17 a 63.85,63.85 0 0 0 -46.939996,0 z"
      id="path8" />
-  <path
-     class="cls-1"
-     d="M 82.69,42.74 A 18.73,18.73 0 1 0 101.41,61.47 18.73,18.73 0 0 0 82.69,42.74 Z"
-     id="path10" />
 </svg>
