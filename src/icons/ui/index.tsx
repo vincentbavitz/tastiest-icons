@@ -1,3 +1,4 @@
+export { default as AlertIcon } from './AlertIcon';
 export { default as BackIcon } from './BackIcon';
 export { default as BookIcon } from './BookIcon';
 export { default as CalendarIcon } from './CalendarIcon';
@@ -28,6 +29,8 @@ export { default as LockIcon } from './LockIcon';
 export { default as MastercardIcon } from './MastercardIcon';
 export { default as MasteroIcon } from './MasteroIcon';
 export { default as MessageIcon } from './MessageIcon';
+export { default as MouseIcon } from './MouseIcon';
+export { default as PhoneIcon } from './PhoneIcon';
 export { default as PlusIcon } from './PlusIcon';
 export { default as PoundIcon } from './PoundIcon';
 export { default as RightIcon } from './RightIcon';

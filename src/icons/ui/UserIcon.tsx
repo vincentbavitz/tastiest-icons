@@ -12,7 +12,7 @@ function SvgUserIcon(props: React.SVGProps<SVGSVGElement>) {
       <defs id="user-icon_svg__defs4">
         <style id="style2">
           {
-            '.user-icon_svg__cls-1{fill:none;stroke:#fe4c00;stroke-linecap:round;stroke-linejoin:round;stroke-width:19px}'
+            '.user-icon_svg__cls-1{stroke-linecap:round;stroke-linejoin:round;stroke-width:19px}'
           }
         </style>
       </defs>
