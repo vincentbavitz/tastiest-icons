@@ -3,32 +3,12 @@ import * as React from 'react';
 function SvgTrendingIcon(props: React.SVGProps<SVGSVGElement>) {
   return (
     <svg
-      xmlns="http://www.w3.org/2000/svg"
-      id="trending-icon_svg__Layer_1"
       data-name="Layer 1"
-      width={190.1}
-      height={146.36}
+      xmlns="http://www.w3.org/2000/svg"
+      viewBox="0 0 1024 1024"
       {...props}
     >
-      <defs id="trending-icon_svg__defs4">
-        <style id="style2">
-          {
-            '.trending-icon_svg__cls-1{fill:none;stroke:#fe4c00;stroke-linecap:round;stroke-linejoin:round;stroke-width:19px}'
-          }
-        </style>
-      </defs>
-      <path
-        className="trending-icon_svg__cls-1"
-        id="trending-icon_svg__polyline8"
-        transform="translate(-68.4 -87.46)"
-        d="M167.07 96.96H249v81.93"
-      />
-      <path
-        className="trending-icon_svg__cls-1"
-        id="trending-icon_svg__polyline10"
-        transform="translate(-68.4 -87.46)"
-        d="M77.9 224.32l52.19-54.44h41.48l65.33-63.63"
-      />
+      <path d="M1015.49 112.35A37.49 37.49 0 00978 74.85H534.57a37.5 37.5 0 000 75h355.85a37.41 37.41 0 00-3 2.68l-346.06 347H332.44a37.52 37.52 0 00-27.79 12.32l-284.44 314a37.5 37.5 0 1055.58 50.36l273.28-301.7H557a37.33 37.33 0 0026.55-11l357-358v350.26a37.5 37.5 0 0075 0z" />
     </svg>
   );
 }

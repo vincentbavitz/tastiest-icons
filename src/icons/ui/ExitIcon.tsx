@@ -3,15 +3,12 @@ import * as React from 'react';
 function SvgExitIcon(props: React.SVGProps<SVGSVGElement>) {
   return (
     <svg
-      xmlns="http://www.w3.org/2000/svg"
       data-name="Layer 1"
-      viewBox="0 0 145.042 155.002"
+      xmlns="http://www.w3.org/2000/svg"
+      viewBox="0 0 1024 1024"
       {...props}
     >
-      <path
-        className="exit-icon_svg__cls-1"
-        d="M92.211 77.501l49-53.18a14.501 14.501 0 00-21.34-19.64l-47.37 51.41-47.33-51.41a14.501 14.501 0 10-21.34 19.64l49 53.18-49 53.18a14.501 14.501 0 1021.34 19.64l47.33-51.41 47.33 51.41a14.501 14.501 0 1021.34-19.64z"
-      />
+      <path d="M566.47 512.5l375.08-376a37.5 37.5 0 10-53.1-53L513.5 459.4 138.55 83.52a37.5 37.5 0 10-53.1 53l375.08 376-375.08 376a37.5 37.5 0 1053.1 53l375-375.88 375 375.88a37.5 37.5 0 1053.1-53z" />
     </svg>
   );
 }

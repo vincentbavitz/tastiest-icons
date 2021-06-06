@@ -8,7 +8,7 @@
     "registry": "https://npm.pkg.github.com"
   },
   "repository": "git://github.com:tastiest-io/tastiest-icons",
-  "version": "0.21.0",
+  "version": "0.24.0",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",

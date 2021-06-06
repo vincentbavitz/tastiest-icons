@@ -3,29 +3,12 @@ import * as React from 'react';
 function SvgPlusIcon(props: React.SVGProps<SVGSVGElement>) {
   return (
     <svg
-      xmlns="http://www.w3.org/2000/svg"
-      id="plus-icon_svg__Layer_1"
       data-name="Layer 1"
-      viewBox="0 0 181.46 181.46"
+      xmlns="http://www.w3.org/2000/svg"
+      viewBox="0 0 1024 1024"
       {...props}
     >
-      <defs id="plus-icon_svg__defs4">
-        <style id="style2">
-          {
-            '.plus-icon_svg__cls-1{fill:none;stroke:#fe4c00;stroke-linecap:round;stroke-linejoin:round;stroke-width:19px}'
-          }
-        </style>
-      </defs>
-      <path
-        className="plus-icon_svg__cls-1"
-        id="plus-icon_svg__line8"
-        d="M171.96 90.73H9.5"
-      />
-      <path
-        className="plus-icon_svg__cls-1"
-        id="plus-icon_svg__line10"
-        d="M90.73 171.96V9.5"
-      />
+      <path d="M914.07 472.35H550.42V108.7a37.5 37.5 0 00-75 0v363.65H111.77a37.5 37.5 0 000 75h363.65V911a37.5 37.5 0 0075 0V547.35h363.65a37.5 37.5 0 000-75z" />
     </svg>
   );
 }

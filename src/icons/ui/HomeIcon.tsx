@@ -3,53 +3,13 @@ import * as React from 'react';
 function SvgHomeIcon(props: React.SVGProps<SVGSVGElement>) {
   return (
     <svg
-      xmlns="http://www.w3.org/2000/svg"
-      id="home-icon_svg__Layer_1"
-      stroke="#fe4c00"
       data-name="Layer 1"
-      viewBox="0 0 246.32 214.93"
+      xmlns="http://www.w3.org/2000/svg"
+      viewBox="0 0 1024 1024"
       {...props}
     >
-      <defs id="home-icon_svg__defs4">
-        <style id="style2">
-          {
-            '.home-icon_svg__cls-1{fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:19px}'
-          }
-        </style>
-      </defs>
-      <path
-        className="home-icon_svg__cls-1"
-        id="home-icon_svg__line8"
-        d="M48.2 112.65v86.47"
-      />
-      <path
-        className="home-icon_svg__cls-1"
-        id="home-icon_svg__line10"
-        d="M199.57 112.65v86.47"
-      />
-      <path
-        className="home-icon_svg__cls-1"
-        id="home-icon_svg__polyline12"
-        transform="translate(-26.11 -40.84)"
-        d="M35.61 154.22L149.27 50.34l113.66 103.88"
-      />
-      <path
-        className="home-icon_svg__cls-1"
-        id="home-icon_svg__polyline14"
-        transform="translate(-26.11 -40.84)"
-        d="M125.28 239.29v-68.5h47.91v68.5"
-      />
-      <path
-        className="home-icon_svg__cls-1"
-        id="home-icon_svg__line16"
-        d="M22.77 205.43h201.5"
-      />
-      <path
-        className="home-icon_svg__cls-1"
-        id="home-icon_svg__polyline18"
-        transform="translate(-26.11 -40.84)"
-        d="M189.66 84.22V61.6h38.57v56.53"
-      />
+      <path d="M1002.3 506.93L872.87 388.64V156.69a37.49 37.49 0 00-37.5-37.5H678a37.49 37.49 0 00-37.5 37.5v19.6l-102-93.24a37.41 37.41 0 00-50.59 0L24.09 506.93a37.5 37.5 0 1050.6 55.36L513.2 161.54l438.5 400.75a37.5 37.5 0 0050.6-55.36zM715.51 194.19h82.39v125.94l-82.39-75.3z" />
+      <path d="M925.8 872.77h-63.29v-341.1a37.5 37.5 0 00-75 0v341.1h-139.2V602.23a37.49 37.49 0 00-37.5-37.5h-195.5a37.49 37.49 0 00-37.5 37.5v270.54h-133v-341.1a37.5 37.5 0 00-75 0v341.1h-66.25a37.5 37.5 0 100 75H925.8a37.5 37.5 0 000-75zm-473-233h120.5v233H452.81z" />
     </svg>
   );
 }

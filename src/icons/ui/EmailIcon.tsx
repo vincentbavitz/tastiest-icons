@@ -3,27 +3,12 @@ import * as React from 'react';
 function SvgEmailIcon(props: React.SVGProps<SVGSVGElement>) {
   return (
     <svg
-      id="email-icon_svg__Layer_1"
       data-name="Layer 1"
       xmlns="http://www.w3.org/2000/svg"
-      viewBox="0 0 67.58 43.95"
+      viewBox="0 0 1024 1024"
       {...props}
     >
-      <defs>
-        <style>{'.email-icon_svg__cls-1{fill:#ff4900}'}</style>
-      </defs>
-      <path
-        className="email-icon_svg__cls-1"
-        d="M65.48 41.84v-2.1H4.2V4.2h59.18v37.64h2.1v-2.1 2.1h2.1V0H0v43.95h67.58v-2.11h-2.1z"
-      />
-      <path
-        className="email-icon_svg__cls-1"
-        d="M.94 3.85L33.6 25.38 66.62 3.86 64.33.34 33.62 20.36 3.26.35.94 3.85z"
-      />
-      <path
-        className="email-icon_svg__cls-1"
-        d="M3.43 43.47l26.18-21.42-2.66-3.25L.77 40.22M67.18 40.22L41 18.8l-2.66 3.25 26.18 21.42"
-      />
+      <path d="M1023.1 801.62V203.5a37.48 37.48 0 00-35.81-37.5H41.1a37.51 37.51 0 00-37.5 37.5V813a37.51 37.51 0 0037.5 37.5h945.35a37.48 37.48 0 0036.65-48.86zM78.6 287.11l254.34 209.12L78.6 728.36zm869.5 439.23L693 493.37 948.1 283zM511.46 545.92L140.61 241h740.5zm-120-1.56l96.21 79.11a37.59 37.59 0 0047.68 0l99.23-81.86L890.71 775.5h-752.5z" />
     </svg>
   );
 }

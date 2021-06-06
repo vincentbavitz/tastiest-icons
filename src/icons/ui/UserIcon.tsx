@@ -3,36 +3,12 @@ import * as React from 'react';
 function SvgUserIcon(props: React.SVGProps<SVGSVGElement>) {
   return (
     <svg
-      xmlns="http://www.w3.org/2000/svg"
-      id="user-icon_svg__Layer_1"
       data-name="Layer 1"
-      viewBox="0 0 231.09 220.96"
+      xmlns="http://www.w3.org/2000/svg"
+      viewBox="0 0 1024 1024"
       {...props}
     >
-      <defs id="user-icon_svg__defs4">
-        <style id="style2">
-          {
-            '.user-icon_svg__cls-1{stroke-linecap:round;stroke-linejoin:round;stroke-width:19px}'
-          }
-        </style>
-      </defs>
-      <circle
-        className="user-icon_svg__cls-1"
-        cx={118.52}
-        cy={60.5}
-        r={51}
-        id="user-icon_svg__circle8"
-      />
-      <path
-        className="user-icon_svg__cls-1"
-        d="M58.61 208.77v-38.14a58.81 58.81 0 0158.8-58.81 58.8 58.8 0 0158.8 58.81v38.14"
-        id="user-icon_svg__path10"
-      />
-      <path
-        className="user-icon_svg__cls-1"
-        id="user-icon_svg__line12"
-        d="M9.5 211.46h212.09"
-      />
+      <path d="M911 876.25H772.49V740.47A266.89 266.89 0 00654.7 518.91q-7.89-5.32-16.18-10.1a236.83 236.83 0 10-261.83-2.63 266.84 266.84 0 00-138.64 234.29v135.78H107a37.5 37.5 0 000 75h804a37.5 37.5 0 000-75zm-555.89-517.9a162.08 162.08 0 1120.33 42.3 161.44 161.44 0 01-20.33-42.3zm-42.06 382.12a192.22 192.22 0 11384.44 0v135.78H313.05z" />
     </svg>
   );
 }

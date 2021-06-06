@@ -3,35 +3,13 @@ import * as React from 'react';
 function SvgMessageIcon(props: React.SVGProps<SVGSVGElement>) {
   return (
     <svg
-      xmlns="http://www.w3.org/2000/svg"
-      id="message-icon_svg__Layer_1"
       data-name="Layer 1"
-      viewBox="0 0 168.51 150.841"
+      xmlns="http://www.w3.org/2000/svg"
+      viewBox="0 0 1024 1024"
       {...props}
     >
-      <defs id="message-icon_svg__defs4">
-        <style id="style2">{'.message-icon_svg__cls-2{fill:#fff}'}</style>
-      </defs>
-      <path
-        d="M149.73 0h-131A18.73 18.73 0 000 18.72v79.94a18.74 18.74 0 0018.76 18.73h21.52l-17.64 27.57a3.83 3.83 0 005.18 5.35l55.06-32.92h66.85a18.74 18.74 0 0018.78-18.73V18.72A18.73 18.73 0 00149.73 0z"
-        id="message-icon_svg__path8"
-        fill="#101d23"
-      />
-      <path
-        className="message-icon_svg__cls-2"
-        d="M33.3 41.61h107.39a3.69 3.69 0 000-7.37H33.3a3.69 3.69 0 000 7.37"
-        id="message-icon_svg__path10"
-      />
-      <path
-        className="message-icon_svg__cls-2"
-        d="M33.3 62.45h107.39a3.69 3.69 0 000-7.37H33.3a3.69 3.69 0 000 7.37"
-        id="message-icon_svg__path12"
-      />
-      <path
-        className="message-icon_svg__cls-2"
-        d="M33.3 84.89h79.71a3.69 3.69 0 100-7.37H33.3a3.69 3.69 0 000 7.37"
-        id="message-icon_svg__path14"
-      />
+      <path d="M734.5 601.62a37.49 37.49 0 0037.5-37.5V167a37.49 37.49 0 00-37.5-37.5H40A37.49 37.49 0 002.5 167v397.12a37.49 37.49 0 0037.5 37.5h79l-1 185.68a37.5 37.5 0 0067.3 23l159.28-208.68zm-438.28-60.26L193.56 675.82l.59-111.5a37.49 37.49 0 00-37.5-37.7H77.5V204.5H697v322.12H326a37.62 37.62 0 00-29.78 14.74z" />
+      <path d="M585 263.31H174.15a37.5 37.5 0 000 75H585a37.5 37.5 0 000-75zM463 389.91H174.15a37.5 37.5 0 000 75H463a37.5 37.5 0 000-75zM1015 268a37.77 37.77 0 00-26.52-11h-153a37.5 37.5 0 000 75H951v344H824.5a37.49 37.49 0 00-37.5 37.5v56l-84.54-81.11a37.29 37.29 0 00-26-10.44H410v-2.5a37.5 37.5 0 00-75 0v40A37.49 37.49 0 00372.5 753h288.92l137.12 131.56A37.5 37.5 0 00862 857.5V751h126.5a37.49 37.49 0 0037.5-37.5v-419a37.77 37.77 0 00-11-26.5z" />
     </svg>
   );
 }
