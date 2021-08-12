@@ -1,4 +1,5 @@
 export { default as AmericanIcon } from './AmericanIcon'
+export { default as BrazilianIcon } from './BrazilianIcon'
 export { default as BritishIcon } from './BritishIcon'
 export { default as CaribbeanIcon } from './CaribbeanIcon'
 export { default as ChineseIcon } from './ChineseIcon'
