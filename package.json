@@ -8,7 +8,7 @@
     "registry": "https://npm.pkg.github.com"
   },
   "repository": "git://github.com:tastiest-io/tastiest-icons",
-  "version": "0.26.0",
+  "version": "0.27.0",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -23,15 +23,11 @@
     "size": "size-limit",
     "analyze": "size-limit --why",
     "optimize-svg": "svgo ./src/svg/*/*.svg",
-    "convert-svg": "rm -rf ./src/icons/** && svgr --typescript -d ./src/icons/ ./src/svg"
+    "convert-svg": "rm -rf ./src/icons/** && svgr --typescript -d ./src/icons/ ./src/svg",
+    "publish:minor": "npm version minor && npm publish"
   },
   "peerDependencies": {
     "react": ">=16"
-  },
-  "husky": {
-    "hooks": {
-      "pre-commit": "tsdx lint"
-    }
   },
   "module": "dist/tastiest-icons.esm.js",
   "size-limit": [
